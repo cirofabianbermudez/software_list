@@ -39,3 +39,46 @@
 29. [Foxit PDF Reader](https://www.foxit.com/es-la/downloads/) visualizasor de archivos pdf.
 30. [DroidCam](https://www.dev47apps.com/) conectar teléfono como cámara web.
 31. [Discord](https://discord.com/) video conferencias.
+31. [Scoop](https://scoop.sh/) manejador de paquetes de Windows, útil para instalar neovim, gcc, gnuplot etc
+31. [PowerToys](https://docs.microsoft.com/en-us/windows/powertoys/) sirve para mejorar la integración de ventanas en windows
+
+
+
+
+
+
+
+
+
+
+
+## Manual de scoop
+
+Para instalar scoop es necesario entrar a la página oficial y ejecutar el comando recomendado.
+
+| Comando                   | Descripción                                            |
+| ------------------------- | ------------------------------------------------------ |
+| `scoop help`              | Ver los comandos de ayuda                              |
+| `scoop search neovim`     | Buscar si ese programa esta dentro tou                 |
+| `scoop update`            | Actualizar scoop                                       |
+| `scoop update neovim`     | Actualizar neovim a la versión más reciente del bucket |
+| `scoop list`              | Ver programas intalados                                |
+| `scoop uninstall neovim`  | Desinstalar neovim                                     |
+| `scoop bucket add extras` | Añadir bucket de extras, para instalar inkscape        |
+
+
+
+### Lista de programas
+
+* gcc
+* neovim
+* gnuplot
+
+
+
+### Enlaces útiles
+
+1. En siguiente [enlace](https://scoop-docs.vercel.app/docs/concepts/Buckets.html#what-are-buckets) esta la documentación de scoop
+2. En este [enlace](https://sedlar.me/scoop-frontend/) se encuentra una lista de los programas que se pueden instalar con scoop
+3. En este [enlace](https://scoopsearch.github.io/#/apps?q=gcc) hay un buscador inteligente
+
