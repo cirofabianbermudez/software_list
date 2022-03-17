@@ -44,14 +44,6 @@
 
 
 
-
-
-
-
-
-
-
-
 ## Manual de scoop
 
 Para instalar scoop es necesario entrar a la página oficial y ejecutar el comando recomendado.
