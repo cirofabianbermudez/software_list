@@ -65,6 +65,7 @@ Para instalar scoop es necesario entrar a la página oficial y ejecutar el coman
 * gcc
 * neovim
 * gnuplot
+* ffmpeg
 
 
 
