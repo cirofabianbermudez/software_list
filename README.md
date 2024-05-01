@@ -1,7 +1,5 @@
 # Software list
 
-
-
 ## Basic tools
 
 - [Git](https://gitforwindows.org/)
@@ -24,7 +22,6 @@
 ## Editors
 
 - [Notepad++](https://notepad-plus-plus.org/downloads/) 
-
 - [Sublime Text](https://www.sublimetext.com/)
 - [Neovim](https://github.com/neovim/neovim/releases/tag/v0.9.5)
 - [Vim](https://www.vim.org/download.php)
@@ -88,7 +85,6 @@
 ## Image
 
 - [Krita](https://krita.org/en/)
-
 - [Greenshot](https://getgreenshot.org/)
 - [Inkscape](https://inkscape.org/)
   - [TexText](https://textext.github.io/textext/)
@@ -153,8 +149,6 @@
 | `scoop list`            | List installed apps   |
 | `scoop uninstall <app>` | Uninstall an app      |
 
-
-
 ## Compilers and interpreters
 
 ### C/C++
@@ -175,4 +169,3 @@ scoop install main/lua
 ```postgresql
 scoop install main/perl
 ```
-
