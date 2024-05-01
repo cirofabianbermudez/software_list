@@ -96,7 +96,7 @@
   - Recommended to install Plugins
   - Settings:
     - `View / Display options (window mode) / Do not fit anything`
-    - ``Options / (Properties/Settings) / Browsing / Do nothing (stop)`
+    - `Options / (Properties/Settings) / Browsing / Do nothing (stop)`
 - [Graphviz](https://graphviz.org/)
 
 
