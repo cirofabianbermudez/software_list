@@ -1,3 +1,0 @@
-﻿^ñ::
-Send, \
-return
