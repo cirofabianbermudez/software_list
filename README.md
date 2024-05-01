@@ -1,5 +1,34 @@
 # Software list
 
+This repository is to have a list of the programs and settings I use.
+
+## Index
+
+* [Basic tools](#basic-tools)
+* [Browsers](#browsers)
+* [Editors](#editors)
+* [PDF Viewers](#pdf-viewers)
+* [LaTeX](#latex)
+   + [LaTeX editors](#latex-editors)
+* [Electronics](#electronics)
+* [Social](#social)
+* [Digital design](#digital-design)
+* [Terminals](#terminals)
+* [Data analysis](#data-analysis)
+* [Image](#image)
+* [Video](#video)
+* [Audio](#audio)
+* [System management](#system-management)
+* [VPN](#vpn)
+* [Cloud Storage](#cloud-storage)
+* [Security](#security)
+* [Productivity](#productivity)
+* [Scoop commands](#scoop-commands)
+* [Compilers and interpreters](#compilers-and-interpreters)
+
+
+
+
 ## Basic tools
 
 - [Git](https://gitforwindows.org/)
