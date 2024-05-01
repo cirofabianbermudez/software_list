@@ -1,6 +1,6 @@
 # Software list
 
-This repository is to have a list of the programs and settings I use.
+This repository contains a list of the programs and settings I use.
 
 ## Index
 
@@ -9,7 +9,6 @@ This repository is to have a list of the programs and settings I use.
 * [Editors](#editors)
 * [PDF Viewers](#pdf-viewers)
 * [LaTeX](#latex)
-   + [LaTeX editors](#latex-editors)
 * [Electronics](#electronics)
 * [Social](#social)
 * [Digital design](#digital-design)
@@ -31,7 +30,7 @@ This repository is to have a list of the programs and settings I use.
 
 ## Basic tools
 
-- [Git](https://gitforwindows.org/)
+- [Git](https://gitforwindows.org/) 
 - [Scoop](https://scoop.sh/)
 - [7zip](https://www.7-zip.org/)
 - [wget](https://eternallybored.org/misc/wget/)
